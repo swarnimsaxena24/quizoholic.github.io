@@ -1,0 +1,49 @@
+body{
+    background-image:url('G.jpg');
+   background-size:100%,100%;
+   background-attachment:fixed;
+}
+h1{
+    text-align:center;
+    border-style:solid;
+    border-radius:100px;
+    border-width:5px;
+    background-color:brown;
+    font-weight:bolder;
+    font-size:55px;
+    color:white;
+}  
+
+#quiz{
+    font-size:20px;
+    font-weight:bolder;
+    text-align:center;
+    color:black;
+}
+#abc{
+    background-color:black;
+    color:white;
+    font-size:30px;
+    text-align:center;
+     border-style:solid;
+    border-color:white;
+    border-width:5px;
+    
+}
+#def{
+    background-color:black;
+    color:white;
+    font-size:30px;
+    text-align:center;
+     border-style:solid;
+    border-color:white;
+    border-width:5px;
+}
+ 
+#table{
+    color:black;
+    border-width:8px;
+    border-style:double;
+    border-color:beige;
+}
+      

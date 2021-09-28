@@ -1,0 +1,90 @@
+h1{
+    text-align:center;
+    border-style:solid;
+    border-radius:100px;
+    border-width:5px;
+    background-color:purple;
+    font-weight:bolder;
+    font-size:55px;
+    color:white;
+    position:relative;
+}  
+
+#quiz{
+    font-size:25px;
+    font-weight:bolder;
+    color:black;
+    position:relative;
+    color:beige;
+}
+#abc{
+    background-color:black;
+    color:white;
+    font-size:35px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+    border-color:white;
+    position:relative;
+    }
+
+#def{
+    background-color:black;
+    color:white;
+    font-size:35px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+    border-color:white;
+    position:relative;
+}
+
+#table{
+    color:black;
+    border-width:8px;
+    border-style:double;
+    border-color:beige;
+    position:relative;
+}
+
+.element-with-background-image {
+   
+position:relative;
+   
+background-image:url('B.jpg');
+
+background-size:100%,100%;
+background-attachment:fixed;
+}
+ 
+
+
+.color-overlay {
+   
+position:absolute;
+   
+top: 0;
+   
+left: 0;
+   
+width: 100%;
+  
+height: 100%;
+   
+
+background-color: black;   
+opacity: 0.6;
+}
+
+
+ 
+
+
+
+
+
+
+
+    

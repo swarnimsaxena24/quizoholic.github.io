@@ -1,0 +1,22 @@
+body{
+    background-image:url('N.gif');
+   background-size:100%,100%;
+   background-attachment:fixed;
+}
+h1{
+    text-align:center;
+    border-style:dashed;
+    border-radius:10px;
+    border-width:3px;
+    background-color:beige;
+    font-weight:lighter;
+    font-size:30px;
+    color:black;
+} 
+
+#table{
+    color:black;
+    border-width:8px;
+    border-style:double;
+    border-color:beige;
+}

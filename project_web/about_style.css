@@ -1,0 +1,41 @@
+body{background-image:url('9.jpg');
+    background-size:100%,100%;
+    background-attachment:fixed;
+    position:relative;
+    opacity:30px;
+}
+
+h1{
+       text-align:center;
+       border-style:double;
+       border-color:white;
+       border-radius:100px;
+       border-width:10px;
+       font-size:60px;
+       font-family:garamond;
+       color:white;
+       background-color:darkblue;
+}
+
+#table{
+    color:pink;
+    border-width:5px;
+    border-style:solid;
+    border-color:beige;
+}
+
+p{
+    color:darkblue;
+    font-size:21px;
+    border-style:solid;
+    background-color:beige;
+    border-color:beige;
+    border-radius:10px;
+    border-width:5px;
+    text-align:center;
+}
+
+ul li{
+    color:darkblue;
+    font-size:23px;
+}
